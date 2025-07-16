@@ -1,4 +1,4 @@
-##################### Normal Starting Project ######################
+
 
 from datetime import datetime
 import pandas
